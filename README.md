@@ -1,4 +1,4 @@
-**Dashboard de Chamados Abertos no Sistema OTRS (atualmente Znuny) - Acompanhamento de Tickets**
+## Dashboard de Chamados Abertos no Sistema OTRS (atualmente Znuny) - Acompanhamento de Tickets
 
 ### 1. Introdução
 
