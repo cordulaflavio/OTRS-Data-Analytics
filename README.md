@@ -19,7 +19,7 @@ Além disso, o projeto contribui para aumentar a transparência interna e melhor
 
 ### 4. Dashboard
 
-**Nota sobre os Dados**: para garantir a privacidade e a segurança das informações da UFPB, todos os dados utilizados neste repositório são fictícios e não representam os dados reais da instituição.
+**Nota sobre os Dados**: todos os dados utilizados neste projeto foram anonimizados e não permitem identificar usuários ou informações sensíveis relacionadas aos chamados. Essa abordagem garante a privacidade das pessoas envolvidas e a segurança dos dados institucionais.
 
 ![alt text](https://github.com/cordulaflavio/OTRS-Data-Analytics/blob/main/images/Dashboard-OTRS-STI.png?raw=true)
 
