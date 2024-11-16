@@ -17,5 +17,12 @@ O principal objetivo é oferecer aos gestores da STI – incluindo os gerentes d
 
 Além disso, o projeto contribui para aumentar a transparência interna e melhorar a alocação de recursos, ao fornecer dados estruturados e visualizações claras que auxiliam na identificação de gargalos e na priorização de demandas.
 
-### 4. Arquitetura do Projeto
+### 4. Dashboard
+
+**Nota sobre os Dados**: para garantir a privacidade e a segurança das informações da UFPB, todos os dados utilizados neste repositório são fictícios e não representam os dados reais da instituição.
+
+![alt text](https://github.com/cordulaflavio/OTRS-Data-Analytics/blob/main/images/Dashboard-OTRS-STI.png?raw=true)
+
+
+### 5. Arquitetura do Projeto
 aaa
