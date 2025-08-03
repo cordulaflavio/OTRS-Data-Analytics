@@ -22,15 +22,12 @@ O dashboard oferece visualizações como:
 
 Além de otimizar a gestão, a iniciativa promove **transparência interna**, melhora a **alocação de recursos** e apoia a **priorização de demandas críticas**.
 
----
-
 ## 2. Alcance
 
 - Atinge **90+ colaboradores da STI**, incluindo técnicos e analistas de TI.
 - Utilizado por **todos os gerentes de TI**, além do **superintendente de TI**.
 - Algumas visualizações também são utilizadas por **gestores institucionais de outros setores**.
 
----
 
 ## 3. Tempo em Produção
 
@@ -40,16 +37,12 @@ Além de otimizar a gestão, a iniciativa promove **transparência interna**, me
 
 > Veja também: [Projeto GitLab Analytics](https://github.com/cordulaflavio/gitlab-analytics) *(link de exemplo)*
 
----
-
 ## 4. Tecnologias Utilizadas
 
 - **Pentaho Data Integration (PDI)**: Para desenvolvimento dos processos ETL que alimentam o banco de dados analítico.
 - **SQL (MySQL e PostgreSQL)**: Para construção das tabelas de fato e dimensão, modelagem de dados e criação de views.
 - **CRON**: Para agendamento da atualização periódica dos dados.
 - **Metabase**: Para construção dos dashboards com acesso controlado e visualizações responsivas e interativas.
-
----
 
 ## 5. Arquitetura do Projeto
 
@@ -85,15 +78,11 @@ O processo completo segue a abordagem **ETL**, com extração dos dados de produ
 - **Tabela Fato**:
   - `fato_atendimento_historico` — Armazena os eventos relacionados ao atendimento dos chamados, vinculando todas as dimensões e registrando métricas como duração, SLA, e status.
 
----
-
 ## 6. Dashboard
 
 > ⚠️ Todos os dados apresentados nas imagens abaixo foram anonimizados. Não há exposição de informações sensíveis ou identificação de usuários. A segurança e a privacidade foram garantidas em todo o processo.
 
 ![Dashboard STI](https://github.com/cordulaflavio/OTRS-Data-Analytics/blob/main/images/Dashboard-OTRS-STI.png?raw=true)
-
----
 
 ## 7. Contato
 
