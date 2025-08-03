@@ -1,4 +1,8 @@
-# Dashboard de Chamados Abertos no Sistema OTRS (atualmente Znuny)
+# Dashboard de Chamados Abertos no Sistema OTRS/Znuny
+
+Autor: Flavio Ribeiro Córdula [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cordulaflavio)
+
+--- 
 
 ## 1. Introdução
 
@@ -91,10 +95,7 @@ Outras imagens do PDI estão disponíveis na pasta [`images/`](images/) do proje
 
 ![Dashboard STI](https://github.com/cordulaflavio/OTRS-Data-Analytics/blob/main/images/Dashboard-OTRS-STI.png?raw=true)
 
-## 7. Contato
 
-Para dúvidas ou colaboração, entre em contato:
 
-**Flavio Córdula**  
-Superintendência de Tecnologia da Informação – UFPB  
-[LinkedIn](https://www.linkedin.com/in/cordulaflavio)  
+
+ 
