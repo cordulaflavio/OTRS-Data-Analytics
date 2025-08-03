@@ -38,7 +38,7 @@ In addition to improving management, the project promotes **internal transparenc
 - As of 2025, it is being phased out due to the integration of the OTRS system into **GitLab**, which now automatically receives tickets as *issues*.
 - Ticket monitoring and analysis will migrate to a new dashboard based on data extracted from GitLab.
 
-> See also: [GitLab Analytics Project](https://github.com/cordulaflavio/gitlab-analytics) *(example link)*
+> See also: [GitLab Data Extraction Project](https://github.com/cordulaflavio/gitlab-data-extraction), which collects and structures GitLab issue tracking data into a dimensional model for analytics.
 
 ## 4. Technologies Used
 
