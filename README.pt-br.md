@@ -39,7 +39,7 @@ Além de otimizar a gestão, a iniciativa promove **transparência interna**, me
 - Atualmente (2025), está sendo descontinuado, pois o sistema OTRS está sendo integrado ao **GitLab**, que passa a receber automaticamente os tickets como *issues*.
 - O acompanhamento e análise dos chamados passarão a ser feitos por meio de um novo dashboard, baseado nos dados extraídos do GitLab.
 
-> Veja também: [Projeto GitLab Analytics](https://github.com/cordulaflavio/gitlab-analytics) *(link de exemplo)*
+> Veja também: [[GitLab Data Extraction Project](https://github.com/cordulaflavio/gitlab-data-extraction)], que coleta e estrutura dados de rastreamento de issues do GitLab em um modelo dimensional para análise.
 
 ## 4. Tecnologias Utilizadas
 
