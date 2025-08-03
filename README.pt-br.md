@@ -78,6 +78,13 @@ O processo completo segue a abordagem **ETL**, com extração dos dados de produ
 - **Tabela Fato**:
   - `fato_atendimento_historico` — Armazena os eventos relacionados ao atendimento dos chamados, vinculando todas as dimensões e registrando métricas como duração, SLA, e status.
 
+### 5.3. Transformações no Pentaho
+
+Abaixo, uma das transformações desenvolvidas no Pentaho Data Integration (PDI), responsável por carregar a tabela de fatos `fato_chamado_atendimento`:
+
+![Transformação fato_chamado_atendimento](https://github.com/cordulaflavio/OTRS-Data-Analytics/blob/main/images/Pentaho-03-fato_chamado_atendimento.png)
+Outras imagens do PDI estão disponíveis na pasta [`images/`](images/) do projeto.
+
 ## 6. Dashboard
 
 > ⚠️ Todos os dados apresentados nas imagens abaixo foram anonimizados. Não há exposição de informações sensíveis ou identificação de usuários. A segurança e a privacidade foram garantidas em todo o processo.
